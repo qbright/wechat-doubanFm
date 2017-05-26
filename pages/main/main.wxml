@@ -1,0 +1,6 @@
+<view>
+    {{heell}}
+    <button bindtap="testTap" type="default">2131</button>
+</view>
+
+

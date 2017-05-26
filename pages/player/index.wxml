@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+        <button bindtap="ddd"></button>
+        player
+
+        <audio src="http://al.qn-echo-cp-cdn.app-echo.com/c2_96k/8801c4c85c4e3c0d16e4450d6e4064eb4a8fd828a0bca20f513944602cd82be20947097d.mp3?1447820814" autoplay controls loop></audio>
+</view>

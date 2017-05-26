@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/main/main",
+    "pages/mine/index",
+    "pages/player/index",
+    "pages/megahertz/index",
+    "pages/red-heart/index",
+    "pages/song-list/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "呵呵还",
+    "navigationBarTextStyle": "black"
+  }
+}
